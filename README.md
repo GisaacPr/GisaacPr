@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://metheus.app"><img src="assets/hero.svg" alt="Aprendé idiomas con lo que ya mirás." width="100%"></a>
+<a href="https://metheus.app"><img src="https://raw.githubusercontent.com/GisaacPr/GisaacPr/main/assets/hero.svg" alt="Aprendé idiomas con lo que ya mirás." width="100%"></a>
 
 <a href="https://metheus.app"><b>Metheus</b></a> &nbsp;·&nbsp; <a href="https://metheus.app/extension">Extensión</a>
 
